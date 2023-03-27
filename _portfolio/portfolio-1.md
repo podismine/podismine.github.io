@@ -1,6 +1,6 @@
 ---
-title: "Portfolio item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "1st on Tencent MiYing competition of brain age prediction"
+excerpt: "腾讯觅影脑龄预测冠军<br/><img src='/images/com-tx.jpg'>"
 collection: portfolio
 ---
 
