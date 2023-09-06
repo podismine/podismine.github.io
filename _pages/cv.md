@@ -20,6 +20,7 @@ Work experience
 * 2019-2020: AI Algorithm Library Engineer
   * stream-oriented processing architecture
   * Cambricon, Beijing
+  
 Publications
 ======
   <ul>{% for post in site.publications %}
