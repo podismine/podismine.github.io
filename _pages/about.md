@@ -10,6 +10,11 @@ redirect_from:
 I am now a PhD candidate studying in Harbin Institute of Technology at Shenzhen, as well as an intern in Peng Cheng National Lab.
 My interests are in medical image processing, brain networks for diagnosis, and neuroscience studies.
 
+
+## Review Track:
+  - ICASSP, MICCAI, BIBM
+  - JBHI, TMI, Neurocomputing, CMIG, CIT
+
 ## News
   - [07.2023] One paper (First Author) is accepted by [MIA](https://www.sciencedirect.com/science/article/pii/S1361841523001767).
   - [07.2023] One paper (First Author) is accepted by [TMI](https://ieeexplore.ieee.org/abstract/document/10182318).
@@ -17,7 +22,7 @@ My interests are in medical image processing, brain networks for diagnosis, and 
   - [03.2023] One paper (First Author) is accepted by [MIDL-2023](https://openreview.net/forum?id=WjrcYNTPunQ).
   - [02.2023] One paper (First Author) is accepted by [ICASSP-2023](https://ieeexplore.ieee.org/abstract/document/10095707) (oral).
   - [02.2023] We are awarded the **Open Science Excellent Author Program** by Wiley.
-  - [09.2022] One paper (First Co-Author) is accepted by [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26066).
+  - [09.2022] One paper (Co-First Author) is accepted by [Human Brain Mapping](https://onlinelibrary.wiley.com/doi/pdf/10.1002/hbm.26066).
   - [08.2022] One paper (First Author) is accepted by [BIBM-2022](https://ieeexplore.ieee.org/abstract/document/9995642) (oral).
   - [06.2022] Our paper (on [Neuroimage:clinical](https://www.sciencedirect.com/science/article/pii/S2213158221001595)) is reported by [Nature Reviews Neurology](https://www.nature.com/articles/s41582-021-00543-3).
   - [05.2022] One paper (First Author) is accepted by [ICIP-2022](https://ieeexplore.ieee.org/abstract/document/9897454).
